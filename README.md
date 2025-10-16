@@ -14,6 +14,36 @@ A comprehensive observability and monitoring framework for Next.js applications 
 
 **Tech Stack**: Next.js 15, TypeScript, Sentry, Winston, Prometheus, Material-UI
 
+### 💰 [accounting-reconciliation](./accounting-reconciliation/)
+A Python-based accounting reconciliation system for financial data processing:
+- **Multi-Account Reconciliation**: Bank, AP, AR, inventory, and fixed assets
+- **Anomaly Detection**: AI-powered discrepancy identification
+- **API Integrations**: Bank and GL account data synchronization
+- **Comprehensive Testing**: Unit and integration test suites
+- **Data Processing**: CSV-based data ingestion and validation
+
+**Tech Stack**: Python, Pandas, Pytest, CSV processing, API integrations
+
+### 📊 [ensi-client-dashboard](./ensi-client-dashboard/)
+A modern Next.js dashboard application with enterprise-grade features:
+- **Responsive Design**: Mobile-first dashboard interface
+- **Component Library**: Reusable UI components with TypeScript
+- **Testing Infrastructure**: Jest, Playwright for comprehensive testing
+- **CI/CD Pipeline**: GitHub Actions for automated testing and deployment
+- **Professional UI**: Clean, modern interface with accessibility features
+
+**Tech Stack**: Next.js 15, TypeScript, Jest, Playwright, GitHub Actions
+
+### 📄 [ensi-pagination](./ensi-pagination/)
+A Next.js pagination component library for data-heavy applications:
+- **Reusable Components**: Flexible pagination with customizable styling
+- **Backend Integration**: Seamless API data fetching and state management
+- **Performance Optimized**: Efficient rendering for large datasets
+- **TypeScript Support**: Full type safety and IntelliSense
+- **Modular Architecture**: Clean, maintainable code structure
+
+**Tech Stack**: Next.js 15, TypeScript, React Hooks, API integration
+
 ## 🎯 Purpose
 
 This playground serves as:
@@ -41,8 +71,10 @@ cd logging-n-monitoring
 ## 📚 Project Categories
 
 - **Observability & Monitoring**: Tools and frameworks for application monitoring
-- **Web Development**: Frontend and full-stack applications
+- **Web Development**: Frontend and full-stack applications  
 - **Data Processing**: Scripts and utilities for data manipulation
+- **Financial Technology**: Accounting and reconciliation systems
+- **Component Libraries**: Reusable UI components and utilities
 - **AI/ML Experiments**: Machine learning and artificial intelligence projects
 - **DevOps & Infrastructure**: Automation and deployment tools
 
