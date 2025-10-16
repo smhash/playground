@@ -1,0 +1,53 @@
+{
+  "name": "@your-org/nextjs-observability",
+  "version": "1.0.0",
+  "description": "Production-ready observability framework for Next.js applications with Sentry, Prometheus metrics, logging, and alerting",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "setup": "node scripts/setup.js",
+    "generate-config": "node scripts/generate-config.js"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^5.17.1",
+    "@mui/material": "^5.17.1",
+    "@mui/system": "^5.17.1",
+    "@sentry/nextjs": "^9.32.0",
+    "@sentry/node": "^9.32.0",
+    "@sentry/react": "^9.32.0",
+    "@sentry/tracing": "^7.120.3",
+    "@types/nodemailer": "^6.4.17",
+    "next": "15.3.4",
+    "nodemailer": "^7.0.4",
+    "prom-client": "^15.1.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.4",
+    "typescript": "^5"
+  },
+  "keywords": [
+    "nextjs",
+    "observability",
+    "monitoring",
+    "logging",
+    "sentry",
+    "prometheus",
+    "alerting",
+    "metrics"
+  ],
+  "author": "Your Organization",
+  "license": "MIT"
+}

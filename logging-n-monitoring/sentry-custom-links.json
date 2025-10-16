@@ -1,0 +1,52 @@
+{
+  "custom_links": [
+    {
+      "name": "View in Grafana",
+      "url": "https://your-cloud-grafana-url.com/d/your-dashboard-uid?orgId=1&var-request_id={{request_id}}&from=now-1h&to=now",
+      "description": "View request metrics in Grafana dashboard",
+      "tags": ["request_id", "correlation_id"]
+    },
+    {
+      "name": "View Prometheus Metrics",
+      "url": "https://your-cloud-grafana-url.com/api/datasources/proxy/1/api/v1/query?query=http_requests_total{request_id=\"{{request_id}}\"}",
+      "description": "View raw Prometheus metrics for this request",
+      "tags": ["request_id", "correlation_id"]
+    }
+  ],
+  "alert_rules": [
+    {
+      "name": "High Error Rate",
+      "conditions": [
+        {
+          "field": "error.rate",
+          "operator": ">",
+          "value": 0.05
+        }
+      ],
+      "actions": [
+        {
+          "type": "slack",
+          "channel": "#alerts",
+          "message": "High error rate detected: {{error.rate}}% in the last 5 minutes"
+        }
+      ]
+    },
+    {
+      "name": "Slow Response Time",
+      "conditions": [
+        {
+          "field": "transaction.duration",
+          "operator": ">",
+          "value": 2000
+        }
+      ],
+      "actions": [
+        {
+          "type": "slack",
+          "channel": "#performance",
+          "message": "Slow transaction detected: {{transaction.duration}}ms for {{transaction.name}}"
+        }
+      ]
+    }
+  ]
+} 

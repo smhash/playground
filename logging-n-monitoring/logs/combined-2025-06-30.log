@@ -1,0 +1,78 @@
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:54:22.472Z","ts":1751309656765}
+{"duration":0.003,"level":"info","message":"/api/track POST 200 0.003s","method":"POST","requestId":"401e8920-c0c0-4acf-8f11-f50d5a5a4f61","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:54:22.473Z"}
+{"duration":0,"level":"info","message":"/api/products GET 200 0.000s","method":"GET","requestId":"8be9ed9b-83c6-4f0a-a4a0-cabda617fe6a","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:54:22.482Z"}
+{"level":"info","message":"Frontend log Page loaded","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:54:22.491Z","ts":1751309656766}
+{"duration":0.001,"level":"info","message":"/api/frontend-log POST 200 0.001s","method":"POST","requestId":"d9e9c978-252f-4a99-936e-67f8e6800b4a","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:54:22.491Z"}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:54:53.695Z","ts":1751309692018}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:54:53.695Z","ts":1751309692018}
+{"duration":0.002,"level":"info","message":"/api/track POST 200 0.002s","method":"POST","requestId":"1e0fbdb6-9113-40a7-a3ea-0e6e64de9546","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:54:53.696Z"}
+{"level":"info","message":"Frontend log Page loaded","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:54:53.702Z","ts":1751309692018}
+{"level":"info","message":"Frontend log Page loaded","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:54:53.702Z","ts":1751309692018}
+{"duration":0,"level":"info","message":"/api/frontend-log POST 200 0.000s","method":"POST","requestId":"af902aaf-84c7-4d3e-af75-d254993ff8f5","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:54:53.703Z"}
+{"level":"info","message":"Frontend log User removed item from cart","productId":1,"service":"nextjs-app","timestamp":"2025-06-30T18:54:56.317Z","ts":1751309695274}
+{"level":"info","message":"Frontend log User removed item from cart","productId":3,"service":"nextjs-app","timestamp":"2025-06-30T18:54:56.318Z","ts":1751309695949}
+{"duration":0.001,"level":"info","message":"/api/frontend-log POST 200 0.001s","method":"POST","requestId":"f4c865eb-3ea8-4267-8543-c4729313ca52","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:54:56.318Z"}
+{"event":"remove_from_cart","level":"info","message":"Frontend metric","productId":1,"service":"nextjs-app","timestamp":"2025-06-30T18:54:56.322Z","ts":1751309695275}
+{"event":"remove_from_cart","level":"info","message":"Frontend metric","productId":3,"service":"nextjs-app","timestamp":"2025-06-30T18:54:56.322Z","ts":1751309695949}
+{"duration":0.002,"level":"info","message":"/api/track POST 200 0.002s","method":"POST","requestId":"3ebc68c8-f4e6-403f-91d3-52207f58980a","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:54:56.323Z"}
+{"duration":0,"level":"info","message":"/api/products GET 200 0.000s","method":"GET","requestId":"99dbda7a-cbb2-426a-b8be-28e82fa606c2","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:54:59.089Z"}
+{"duration":0,"level":"info","message":"/api/products GET 200 0.000s","method":"GET","requestId":"f364a477-fb3e-41a9-bb46-394007cb091f","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:54:59.108Z"}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:00.102Z","ts":1751309699071}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:00.103Z","ts":1751309699071}
+{"duration":0.001,"level":"info","message":"/api/track POST 200 0.001s","method":"POST","requestId":"0576eb35-e4e4-4c10-8f54-1c8678dd26bf","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:00.103Z"}
+{"level":"info","message":"Frontend log Page loaded","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:00.105Z","ts":1751309699071}
+{"level":"info","message":"Frontend log Page loaded","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:00.105Z","ts":1751309699071}
+{"duration":0,"level":"info","message":"/api/frontend-log POST 200 0.000s","method":"POST","requestId":"dbe4fc68-7fd3-4b6c-b36d-ccc3fae48176","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:00.105Z"}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:02.898Z","ts":1751309701879}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:02.898Z","ts":1751309701879}
+{"duration":0.001,"level":"info","message":"/api/track POST 200 0.001s","method":"POST","requestId":"c8ceaf31-a244-4a2f-bbda-883416dda197","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:02.899Z"}
+{"level":"info","message":"Frontend log Page loaded","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:02.902Z","ts":1751309701879}
+{"level":"info","message":"Frontend log Page loaded","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:02.902Z","ts":1751309701879}
+{"duration":0,"level":"info","message":"/api/frontend-log POST 200 0.000s","method":"POST","requestId":"2bb977a4-4f1d-4ba2-9440-e843d15eba47","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:02.902Z"}
+{"duration":0,"level":"info","message":"/api/products GET 200 0.000s","method":"GET","requestId":"05549381-cee9-4f89-b154-5d9d79cc830f","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:04.423Z"}
+{"duration":0,"level":"info","message":"/api/products GET 200 0.000s","method":"GET","requestId":"dff98735-bd50-4dff-ad42-29a9485faac7","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:04.429Z"}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:05.429Z","ts":1751309704412}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:05.429Z","ts":1751309704412}
+{"duration":0.001,"level":"info","message":"/api/track POST 200 0.001s","method":"POST","requestId":"b4779c43-b3fa-4342-9b97-689bfb6c2b09","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:05.429Z"}
+{"level":"info","message":"Frontend log Page loaded","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:05.431Z","ts":1751309704412}
+{"level":"info","message":"Frontend log Page loaded","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:05.431Z","ts":1751309704412}
+{"duration":0,"level":"info","message":"/api/frontend-log POST 200 0.000s","method":"POST","requestId":"1bf9e8bc-1105-4bc8-bf4b-61b1395fba88","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:05.432Z"}
+{"duration":0,"level":"info","message":"/api/products GET 200 0.000s","method":"GET","requestId":"8f46189f-c295-4185-9122-dfd8ac8513e0","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:08.253Z"}
+{"duration":0,"level":"info","message":"/api/products GET 200 0.000s","method":"GET","requestId":"9f64ea9c-5aed-4a4c-b568-eb1edf19a8b3","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:08.270Z"}
+{"level":"info","message":"Frontend log Page loaded","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:09.258Z","ts":1751309708233}
+{"level":"info","message":"Frontend log Page loaded","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:09.258Z","ts":1751309708234}
+{"duration":0.002,"level":"info","message":"/api/frontend-log POST 200 0.002s","method":"POST","requestId":"d9dca1c3-78af-4b61-b461-2ebb65661362","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:09.259Z"}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:09.262Z","ts":1751309708233}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:09.262Z","ts":1751309708234}
+{"duration":0,"level":"info","message":"/api/track POST 200 0.000s","method":"POST","requestId":"ea6989db-abcd-48bf-b69a-427b28dfecb7","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:09.262Z"}
+{"level":"info","message":"Frontend log User added to cart","productId":3,"service":"nextjs-app","timestamp":"2025-06-30T18:55:11.002Z","ts":1751309709976}
+{"level":"info","message":"Frontend log Page loaded","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:11.002Z","ts":1751309710010}
+{"level":"info","message":"Frontend log Page loaded","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:11.003Z","ts":1751309710011}
+{"duration":0.002,"level":"info","message":"/api/frontend-log POST 200 0.002s","method":"POST","requestId":"d9225a5c-1ec0-460d-9882-8341d2373f27","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:11.003Z"}
+{"event":"add_to_cart","level":"info","message":"Frontend metric","productId":3,"service":"nextjs-app","timestamp":"2025-06-30T18:55:11.007Z","ts":1751309709975}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:11.007Z","ts":1751309710010}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:11.007Z","ts":1751309710011}
+{"duration":0.001,"level":"info","message":"/api/track POST 200 0.001s","method":"POST","requestId":"6f4ce789-f112-462b-95e3-74cbe8e4c201","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:11.007Z"}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:39.535Z","ts":1751309737981}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:39.536Z","ts":1751309737981}
+{"duration":0.002,"level":"info","message":"/api/track POST 200 0.002s","method":"POST","requestId":"4478adae-b7db-4bec-bddb-aa50fb936fdd","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:39.536Z"}
+{"level":"info","message":"Frontend log Page loaded","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:39.542Z","ts":1751309737981}
+{"level":"info","message":"Frontend log Page loaded","page":"/my_cart","service":"nextjs-app","timestamp":"2025-06-30T18:55:39.542Z","ts":1751309737981}
+{"duration":0,"level":"info","message":"/api/frontend-log POST 200 0.000s","method":"POST","requestId":"803e68d9-553e-46c8-995b-2bb7363f11af","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:39.542Z"}
+{"duration":0,"level":"info","message":"/api/products GET 200 0.000s","method":"GET","requestId":"ff071cda-ccb1-46e4-8895-7b54f6fdae90","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:40.110Z"}
+{"duration":0,"level":"info","message":"/api/products GET 200 0.000s","method":"GET","requestId":"98bd3549-cb1e-4d38-91bd-12b3aa2d5bef","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:40.121Z"}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:41.104Z","ts":1751309740090}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:41.105Z","ts":1751309740090}
+{"duration":0.001,"level":"info","message":"/api/track POST 200 0.001s","method":"POST","requestId":"5f013b04-459b-45f2-90ab-469bbff84083","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:41.105Z"}
+{"level":"info","message":"Frontend log Page loaded","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:41.107Z","ts":1751309740090}
+{"level":"info","message":"Frontend log Page loaded","page":"/search","service":"nextjs-app","timestamp":"2025-06-30T18:55:41.108Z","ts":1751309740091}
+{"duration":0.001,"level":"info","message":"/api/frontend-log POST 200 0.001s","method":"POST","requestId":"750bf59b-37a3-44a9-b9b3-88af9c3153ca","route":"/api/frontend-log","service":"nextjs-app","status":200,"timestamp":"2025-06-30T18:55:41.108Z"}
+{"ip":"::1","level":"info","message":"Metrics endpoint accessed","service":"nextjs-app","timestamp":"2025-06-30T19:20:48.219Z","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"duration":0.001,"level":"info","message":"/api/products GET 200 0.001s","method":"GET","requestId":"c1f7d9fb-b5a1-43cf-a67d-65821749d3e1","route":"/api/products","service":"nextjs-app","status":200,"timestamp":"2025-07-01T01:58:02.429Z"}
+{"event":"pageview","level":"info","message":"Frontend metric","page":"/search","service":"nextjs-app","timestamp":"2025-07-01T01:58:02.436Z","ts":1751335077816}
+{"duration":0.001,"level":"info","message":"/api/track POST 200 0.001s","method":"POST","requestId":"2aa20186-77d6-4e71-bff3-e19460a55b01","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-07-01T01:58:02.436Z"}
+{"duration":0,"ip":"::1","level":"info","message":"Health check performed","service":"nextjs-app","timestamp":"2025-07-01T01:58:18.364Z","userAgent":"curl/8.9.1"}
+{"event":"test","level":"info","message":"Frontend metric","page":"test","service":"nextjs-app","timestamp":"2025-07-01T01:58:26.741Z"}
+{"duration":0.001,"level":"info","message":"/api/track POST 200 0.001s","method":"POST","requestId":"97584576-02d6-4069-ac5d-d2639e97d997","route":"/api/track","service":"nextjs-app","status":200,"timestamp":"2025-07-01T01:58:26.742Z"}
+{"ip":"::1","level":"info","message":"Metrics endpoint accessed","service":"nextjs-app","timestamp":"2025-07-01T02:10:24.667Z","userAgent":"curl/8.9.1"}
+{"ip":"::1","level":"info","message":"Metrics endpoint accessed","service":"nextjs-app","timestamp":"2025-07-01T02:10:33.370Z","userAgent":"curl/8.9.1"}
