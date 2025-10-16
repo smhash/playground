@@ -1,0 +1,6 @@
+investment_id,date,amount,instrument_type,book_value
+INV-001,2024-03-01,1000000.00,treasury_bill,1000000.00
+INV-002,2024-03-05,500000.00,commercial_paper,500000.00
+INV-003,2024-03-10,750000.00,money_market,750000.00
+INV-004,2024-03-15,250000.00,marketable_security,250000.00
+INV-005,2024-03-20,300000.00,government_bond,300000.00 

@@ -1,0 +1,6 @@
+investment_id,instrument_type,purchase_date,maturity_date,amount,issuer
+INV-001,treasury_bill,2024-03-01,2024-05-30,1000000.00,US Treasury
+INV-002,commercial_paper,2024-03-05,2024-06-03,500000.00,ABC Corp
+INV-003,money_market,2024-03-10,2024-06-08,750000.00,XYZ Bank
+INV-004,marketable_security,2024-03-15,2024-06-13,250000.00,DEF Corp
+INV-005,government_bond,2024-03-20,2024-06-18,300000.00,US Treasury 

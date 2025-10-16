@@ -1,0 +1,11 @@
+transaction_id,vendor_id,transaction_date,quantity,unit_cost,status
+AP001,V001,2024-05-25,50,45.00,in_transit
+AP002,V001,2024-05-26,25,115.00,in_transit
+AP003,V002,2024-05-27,100,20.00,in_transit
+AP004,V002,2024-05-28,75,30.00,in_transit
+AP005,V001,2024-05-29,20,190.00,in_transit
+AP006,V002,2024-05-30,150,12.00,in_transit
+AP007,V001,2024-05-31,10,480.00,in_transit
+AP008,V002,2024-06-01,200,8.00,in_transit
+AP009,V001,2024-06-02,5,950.00,in_transit
+AP010,V002,2024-06-03,250,7.00,in_transit 

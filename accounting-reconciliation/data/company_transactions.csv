@@ -1,0 +1,7 @@
+date,reference_id,amount,description
+2024-01-15,TRX-2024-001,5000.00,Invoice payment
+2024-01-20,TRX-2024-002,-2500.00,Vendor payment
+2024-02-01,TRX-2024-003,7500.00,Invoice payment
+2024-02-15,TRX-2024-004,-3000.00,Vendor payment
+2024-03-01,TRX-2024-005,6000.00,Invoice payment
+2024-03-15,TRX-2024-006,-4000.00,Vendor payment 

@@ -1,0 +1,12 @@
+date,invoice_id,customer_id,amount,type,description
+2024-01-15,INV-2024-001,CUST-001,5000.00,invoice,Regular invoice
+2024-01-20,INV-2024-002,CUST-002,7500.00,invoice,Regular invoice
+2024-02-01,INV-2024-003,CUST-003,6000.00,invoice,Regular invoice
+2024-02-15,INV-2024-004,CUST-004,4500.00,invoice,Regular invoice
+2024-03-01,INV-2024-005,CUST-005,8000.00,invoice,Regular invoice
+2024-03-15,INV-2024-006,CUST-006,5500.00,invoice,Regular invoice
+2024-03-20,INV-2024-007,CUST-007,3000.00,accrued,Accrued revenue
+2024-03-25,INV-2024-008,CUST-008,4000.00,accrued,Accrued revenue
+2024-01-15,INV-2024-001,CUST-001,1500.00,write_off,Customer bankruptcy
+2024-02-01,INV-2024-015,CUST-003,2500.00,write_off,Customer dispute
+2024-02-15,INV-2024-028,CUST-007,1000.00,write_off,Customer insolvency 

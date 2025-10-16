@@ -1,0 +1,10 @@
+date,asset_id,amount,transaction_type,description,account_type
+2024-01-01,FA001,1000000.00,purchase,Office Building Purchase,debit
+2024-01-15,FA002,50000.00,purchase,Company Vehicle Purchase,debit
+2024-02-01,FA003,25000.00,purchase,Computer Equipment Purchase,debit
+2024-02-15,FA004,15000.00,purchase,Office Furniture Purchase,debit
+2024-03-01,FA005,750000.00,purchase,Manufacturing Equipment Purchase,debit
+2024-03-15,FA006,100000.00,purchase,Server Infrastructure Purchase,debit
+2024-03-20,FA007,-30000.00,disposal,Old Vehicle Disposal,credit
+2024-03-25,FA008,-20000.00,retirement,Obsolete Equipment Retirement,credit
+2024-03-28,FA009,-5000.00,sale,Office Printer Sale,credit 

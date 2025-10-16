@@ -1,0 +1,13 @@
+date,asset_id,amount,description,account_type
+2024-01-31,FA001,2777.78,Office Building Monthly Depreciation,credit
+2024-01-31,FA002,833.33,Company Vehicle Monthly Depreciation,credit
+2024-02-28,FA001,2777.78,Office Building Monthly Depreciation,credit
+2024-02-28,FA002,833.33,Company Vehicle Monthly Depreciation,credit
+2024-02-28,FA003,694.44,Computer Equipment Monthly Depreciation,credit
+2024-02-28,FA004,178.57,Office Furniture Monthly Depreciation,credit
+2024-03-31,FA001,2777.78,Office Building Monthly Depreciation,credit
+2024-03-31,FA002,833.33,Company Vehicle Monthly Depreciation,credit
+2024-03-31,FA003,694.44,Computer Equipment Monthly Depreciation,credit
+2024-03-31,FA004,178.57,Office Furniture Monthly Depreciation,credit
+2024-03-31,FA005,15625.00,Manufacturing Equipment Monthly Depreciation,credit
+2024-03-31,FA006,2777.78,Server Infrastructure Monthly Depreciation,credit 

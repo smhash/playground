@@ -1,0 +1,10 @@
+date,asset_id,description,amount,depreciation_method,useful_life,transaction_type,location_id
+2024-01-01,FA001,Office Building,1000000.00,purchase,LOC001
+2024-01-15,FA002,Company Vehicle,50000.00,purchase,LOC001
+2024-02-01,FA003,Computer Equipment,25000.00,purchase,LOC002
+2024-02-15,FA004,Office Furniture,15000.00,purchase,LOC001
+2024-03-01,FA005,Manufacturing Equipment,750000.00,purchase,LOC003
+2024-03-15,FA006,Server Infrastructure,100000.00,purchase,LOC002
+2024-03-20,FA007,Old Vehicle,30000.00,disposal,LOC001
+2024-03-25,FA008,Obsolete Equipment,20000.00,retirement,LOC003
+2024-03-28,FA009,Office Printer,5000.00,sale,LOC001 

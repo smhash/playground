@@ -1,0 +1,9 @@
+date,invoice_id,amount,type,description
+2024-01-15,INV-2024-001,5000.00,invoice,Regular invoice
+2024-01-20,INV-2024-002,7500.00,invoice,Regular invoice
+2024-02-01,INV-2024-003,6000.00,invoice,Regular invoice
+2024-02-15,INV-2024-004,4500.00,invoice,Regular invoice
+2024-03-01,INV-2024-005,8000.00,invoice,Regular invoice
+2024-03-15,INV-2024-006,5500.00,invoice,Regular invoice
+2024-03-20,INV-2024-007,3000.00,accrued,Accrued revenue
+2024-03-25,INV-2024-008,4000.00,accrued,Accrued revenue 

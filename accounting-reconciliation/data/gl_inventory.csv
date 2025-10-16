@@ -1,0 +1,11 @@
+item_id,location_id,date,quantity_gl,unit_cost,item_category
+INV001,WH1,2024-01-15,100,50.00,Electronics
+INV002,WH1,2024-01-20,75,120.00,Electronics
+INV003,WH2,2024-02-01,200,25.00,Office Supplies
+INV004,WH2,2024-02-15,150,35.00,Office Supplies
+INV005,WH1,2024-03-01,50,200.00,Electronics
+INV006,WH2,2024-03-15,300,15.00,Office Supplies
+INV007,WH1,2024-04-01,25,500.00,Electronics
+INV008,WH2,2024-04-15,400,10.00,Office Supplies
+INV009,WH1,2024-05-01,10,1000.00,Electronics
+INV010,WH2,2024-05-15,500,8.00,Office Supplies 

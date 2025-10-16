@@ -1,0 +1,7 @@
+date,reference_id,amount,transaction_type,description
+2024-03-01,GL-2024-001,5000.00,deposit,Initial deposit
+2024-03-05,GL-2024-002,-1500.00,check,Vendor payment
+2024-03-10,GL-2024-003,3000.00,deposit,Customer payment
+2024-03-15,GL-2024-004,-2000.00,ach,Utility payment
+2024-03-20,GL-2024-005,-500.00,fee,Bank service fee
+2024-03-25,GL-2024-006,2500.00,deposit,Customer payment 

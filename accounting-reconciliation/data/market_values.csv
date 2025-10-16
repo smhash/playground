@@ -1,0 +1,11 @@
+item_id,valuation_date,market_value,item_category
+INV001,2024-05-20,48.00,Electronics
+INV002,2024-05-20,125.00,Electronics
+INV003,2024-05-20,22.00,Office Supplies
+INV004,2024-05-20,35.00,Office Supplies
+INV005,2024-05-20,180.00,Electronics
+INV006,2024-05-20,15.00,Office Supplies
+INV007,2024-05-20,450.00,Electronics
+INV008,2024-05-20,10.00,Office Supplies
+INV009,2024-05-20,800.00,Electronics
+INV010,2024-05-20,8.00,Office Supplies 

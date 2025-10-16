@@ -1,0 +1,11 @@
+item_id,location_id,count_date,quantity_count,count_type
+INV001,WH1,2024-05-20,98,cycle
+INV002,WH1,2024-05-20,75,cycle
+INV003,WH2,2024-05-20,195,cycle
+INV004,WH2,2024-05-20,150,cycle
+INV005,WH1,2024-05-20,48,cycle
+INV006,WH2,2024-05-20,305,cycle
+INV007,WH1,2024-05-20,25,cycle
+INV008,WH2,2024-05-20,395,cycle
+INV009,WH1,2024-05-20,10,cycle
+INV010,WH2,2024-05-20,498,cycle 
